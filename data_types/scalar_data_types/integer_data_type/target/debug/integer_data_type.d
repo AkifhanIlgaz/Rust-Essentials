@@ -1,0 +1,1 @@
+C:\Users\AKIF\Desktop\Rust-Essentials\data_types\primitive_data_types\integer_data_type\target\debug\integer_data_type.exe: C:\Users\AKIF\Desktop\Rust-Essentials\data_types\primitive_data_types\integer_data_type\src\main.rs

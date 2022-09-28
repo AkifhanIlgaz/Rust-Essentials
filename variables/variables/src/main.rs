@@ -16,4 +16,12 @@ fn main() {
     let mut y = 5;
     println!("{y}");
     y = 6; // No error
+
+    /*
+        We can specify the data type of the variable.
+        Check data_types for further information about types
+    */
+
+    let number: i8 = 5;
+    let number = 1i8;
 }
