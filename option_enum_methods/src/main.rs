@@ -7,6 +7,8 @@ pub enum Option<T> {
     None,    // No value
 }
 
+// Option<T> => There is a value or nothing
+
 impl<T> Option<T> {
     pub const fn is_some(&self) -> bool {
         /*
