@@ -1,0 +1,1 @@
+C:\Users\AKIF\Desktop\Rust-Command-Line-Program\minigrep\target\debug\minigrep.exe: C:\Users\AKIF\Desktop\Rust-Command-Line-Program\minigrep\src\lib.rs C:\Users\AKIF\Desktop\Rust-Command-Line-Program\minigrep\src\main.rs
